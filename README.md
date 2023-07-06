@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Risk Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies Used
+```
+- NodeJs
+- ReactJs
+```
+
+## Getting Started
+```
+Clone this repository 
+- git clone https://github.com/AndresBetancurRamos88/frontend_risk
+```
+
+## Run project locally
+```
+Open de command prompt and navigate to the path where the app was cloned
+
+Run the following command to install the libraries
+    -npm install
+```
 
 ## Available Scripts
 
